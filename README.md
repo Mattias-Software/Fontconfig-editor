@@ -1,2 +1,5 @@
 # Fontconfig-editor
-A bare-bones fontconfig cli editor 
+A bare-bones fontconfig cli editor
+
+# Pre-requistes
+- vim
